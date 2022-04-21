@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T18:33:46.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="8K8USj4N9rXAiLYsz-Lz" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T18:35:14.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="OG5CoQkO2Jlacdr5QeUh" version="16.5.4" type="github">
   <diagram id="0N5EAT0uYaVRdyBHmvxT" name="Page-1">
     <mxGraphModel dx="2062" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="none" math="0" shadow="0">
       <root>
@@ -237,6 +237,9 @@
         <mxCell id="eZgN1Aya_gJIHeBSr3sO-113" value="Task Complete?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1210" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="eZgN1Aya_gJIHeBSr3sO-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eZgN1Aya_gJIHeBSr3sO-118" target="eZgN1Aya_gJIHeBSr3sO-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eZgN1Aya_gJIHeBSr3sO-118" value="Trigger Logic App for report Generation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1240" width="120" height="70" as="geometry" />
         </mxCell>
@@ -245,6 +248,9 @@
         </mxCell>
         <mxCell id="eZgN1Aya_gJIHeBSr3sO-123" value="&lt;span style=&quot;text-align: left&quot;&gt;Read tasks from DB&amp;nbsp; and Peek of all queues of an app for completion.&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="1070" width="232.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eZgN1Aya_gJIHeBSr3sO-133" value="End Test Flow" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
