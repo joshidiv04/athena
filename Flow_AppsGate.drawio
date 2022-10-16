@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T22:14:56.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.3.7" etag="V86HX8TeKFxML02ffk5e" type="github"><diagram id="d62y1_cmGxjRolLLITbF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-16T22:49:09.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aasYCfv0FZOH0SUBxI8G" version="20.3.7" type="github">
+  <diagram id="d62y1_cmGxjRolLLITbF" name="Page-1">
+    <mxGraphModel dx="2494" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-5" target="Bh_paWFHIteFxcWSHz7c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-5" value="App Owner" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-10" value="My App is ready to be onboarded to Teams..." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-12" target="Bh_paWFHIteFxcWSHz7c-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.006;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-12" target="Bh_paWFHIteFxcWSHz7c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-12" value="Request access to Perf Gate Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.012;exitY=0.683;exitDx=0;exitDy=0;entryX=0.997;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-14" target="Bh_paWFHIteFxcWSHz7c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="126" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-16" value="Step 1-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-20" value="Step 2-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-21" target="Bh_paWFHIteFxcWSHz7c-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-21" value="App Owner" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-23" target="Bh_paWFHIteFxcWSHz7c-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-23" value="Configures the App with the necessary configurations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-26" value="Perf Gate Infra" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.well_architect_tool;" vertex="1" parent="1">
+          <mxGeometry x="630" y="336" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-30" value="Step 3-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="564" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-32" value="App Owner" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="554" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.857;exitY=0.286;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-32" target="Bh_paWFHIteFxcWSHz7c-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.71;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-34" target="Bh_paWFHIteFxcWSHz7c-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-34" value="Triggers the perf validation test for the app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-35" value="Perf Gate Infra" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.well_architect_tool;" vertex="1" parent="1">
+          <mxGeometry x="625" y="550" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-42" value="Step 4-&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="756.38" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-44" value="App Owner" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="554" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-53" target="Bh_paWFHIteFxcWSHz7c-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-53" value="App Owner" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="730" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bh_paWFHIteFxcWSHz7c-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-55" value="Analyses the report/dashboard with validation and recommendations for the App&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-57" value="Jarvis Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" vertex="1" parent="1">
+          <mxGeometry x="644" y="741.75" width="63.71" height="59.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-58" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;1. App X owner requests Teams with App&#39;s Manifest to allow access to Teams Infra&lt;br&gt;2. Teams allows required access to the Perf Gate infra to App X Owner&lt;/b&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="140" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-61" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;1. App X owner configures App X with the required config for a user&lt;br&gt;2. These configurations are app specific and requires manual configuration&lt;/b&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="340" width="240" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-62" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;1. App Owner triggers automated validation flow&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2. These validation flow will cover different areas depending upon the App&#39;s capabilities(Personal, Channel/Chat, Bot, Meetings)&lt;/b&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="805" y="550" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-63" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;1. After the flow completes, user gets notified with the report and a link to the dashboard&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;2. If the checks pass, App Owner can request App submission to Teams Store&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;3. If not, the App owner can work on perf areas recommended on the report.&lt;/b&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="805" y="741.75" width="250" height="139.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-64" value="&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;1. After the flow completes, user gets notified with the report and a link to the dashboard&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;2. If the checks pass, App Owner can request App submission to Teams Store&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:10px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;3. If not, the App owner can work on perf areas recommended on the report.&lt;/b&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="805" y="741.75" width="250" height="139.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Bh_paWFHIteFxcWSHz7c-65" value="Jarvis Dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" vertex="1" parent="1">
+          <mxGeometry x="644" y="741.75" width="63.71" height="59.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
