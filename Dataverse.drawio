@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T17:05:16.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.7.3" etag="OCAYGwYx6kEwsIbSFUGl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T22:38:20.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.7.3" etag="OLqEhkfcY7tzI804Yll0" type="github">
   <diagram id="G6Jhaj-Kd8lYrflZTWRt" name="Page-1">
     <mxGraphModel dx="2266" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="Xthsi6uCNfq1cZiKxfYF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xthsi6uCNfq1cZiKxfYF-10" target="Xthsi6uCNfq1cZiKxfYF-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xthsi6uCNfq1cZiKxfYF-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Configuration.svg;" vertex="1" parent="1">
+        <mxCell id="Xthsi6uCNfq1cZiKxfYF-10" value="Integrations" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Configuration.svg;" vertex="1" parent="1">
           <mxGeometry x="384.68" y="650" width="81.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xthsi6uCNfq1cZiKxfYF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xthsi6uCNfq1cZiKxfYF-11" target="Xthsi6uCNfq1cZiKxfYF-12">
@@ -63,14 +63,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xthsi6uCNfq1cZiKxfYF-11" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/StorSimple_Data_Managers.svg;" vertex="1" parent="1">
+        <mxCell id="Xthsi6uCNfq1cZiKxfYF-11" value="Storage" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/StorSimple_Data_Managers.svg;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="770" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xthsi6uCNfq1cZiKxfYF-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://accessorange.com/wp-content/uploads/2018/10/powerapps-logo.png;" vertex="1" parent="1">
           <mxGeometry x="261.5" y="860" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xthsi6uCNfq1cZiKxfYF-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://styles.redditmedia.com/t5_3fca9/styles/communityIcon_3kkskcro87x91.jpg;" vertex="1" parent="1">
-          <mxGeometry x="466.31" y="862.38" width="102.25" height="57.62" as="geometry" />
+          <mxGeometry x="461.75" y="866.1899999999999" width="102.25" height="57.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
